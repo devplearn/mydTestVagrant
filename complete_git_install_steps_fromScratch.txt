@@ -620,10 +620,7 @@ The key's randomart image is:
 |        oBBoo..  |
 +----[SHA256]-----+
 [vagrant@chefwork test_git]$ cat ../.ssh/id_rsa.pub
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDu/LbW/uEXeqAS57ufA4jqYIYH+2LDzYZj9WQMRoCa2j/yVh0CRyLXO2x8gcOk
-/vDMTIJwg5SEAg56Gnc5yV+sCsAuk9JZnCr+RGrnKdvGjuvgHlEQpqbtlTMUybebFExyB8nTf19FvKF2xmIv6ZihvmSQjo6xyxlV
-G2pzbD92W6svpDFELViC1smbfgZ/6TI2Ha/33mjDdc9GZYId+CC758sYRg1KrYjfvh4eF64vqfVul19W9CU0K9zdUhEjDVC63k+a
-jHjdMCod1U/NuISEdfzOMKTKJQCVhTf4rEz/uQ3l3PlN0bYoeqRkKxreVefNNn6w8Lu4lOm0Sr0mPV73 vagrant@chefwork
+ssh-rsa /vDMTIJwg5SEAg56Gnc5yV+sCsAuk9JZnCr+RGrnKdvGjuvgHlEQpqbtlTMUybebFExyB8nTf19FvKF2xmIv6ZihvmSQjo6xyxlV.....
 [vagrant@chefwork test_git]$ git remote add origin git@github.com:devplearn/mydTestVagrant.git
 [vagrant@chefwork test_git]$
 [vagrant@chefwork test_git]$ git push -u origin master
